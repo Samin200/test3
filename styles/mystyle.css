@@ -1,6 +1,6 @@
 div{
-    color: blue;
-    background-color: red;
-    border: 10px solid yellow;
-    box-shadow: 20px 10px 20px purple;
+    color: rgba(150, 15, 125, 0.486);
+    background-color: rgba(13, 176, 40, 0.447);
+    border: 10px solid rgb(91, 58, 255);
+    box-shadow: 20px 20px 20px black;
 }
