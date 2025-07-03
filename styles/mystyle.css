@@ -1,4 +1,6 @@
 div{
     color: blue;
     background-color: red;
+    border: 10px solid yellow;
+    box-shadow: 20px 10px 20px purple;
 }
